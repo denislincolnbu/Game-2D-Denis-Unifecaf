@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: bomb_0
+  m_Name: grassCliff_left_0
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: -2613247888821195678, guid: cf3367f5e0e188c49a301efd11f66123, type: 3}
+  m_Sprite: {fileID: -1240513935339949183, guid: a6c66fdf9d5b3f74598e7c5ee93aad4d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
